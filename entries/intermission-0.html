@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<!-- ALT + SHIFT + F -->
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <title>Maxwell's Log</title>
+    <meta name="description" content="What's Maxwell writing?">
+
+    <!-- Pico.css -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2.1.1/css/pico.min.css">
+    <link rel="stylesheet" href="/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+</head>
+
+<body>
+    <!-- Header -->
+    <header class="container">
+        <hgroup>
+            <h1><a href="/">Maxwell's Log</a></h1>
+            <p>What's Maxwell writing?</p>
+        </hgroup>
+    </header>
+    <!-- ./ Header -->
+
+    <!-- Main -->
+    <main class="container">
+        <!-- Preview -->
+        <section id="preview">
+
+            <h2>Intermission 0</h2>
+            <div id="content"></div>
+            <script>
+                fetch('/md/1-intermission-0.md')
+                    .then(response => response.text())  // Get file content as text
+                    .then(markdown => {
+                        document.getElementById('content').innerHTML = marked.parse(markdown);
+                    })
+                    .catch(error => {
+                        document.getElementById('content').innerHTML = "Error loading markdown file.";
+                        console.error("Error fetching markdown:", error);
+                    });
+            </script>
+
+        </section>
+        <!-- ./ Preview -->
+
+    </main>
+    <!-- ./ Main -->
+
+    <!-- Minimal theme switcher -->
+    <script src="js/minimal-theme-switcher.js"></script>
+
+    <!-- Modal -->
+    <script src="js/modal.js"></script>
+</body>
+
+</html>
