@@ -19,9 +19,12 @@ Asivilliamism state that might makes right, and that there is no problem that ca
 
 _The following text is written in a much more frantic and aggressive font than the other parts, getting progressively messier as it continues_
 
-I am so mad I am so mad I am so mad I am so mad 
+I am so mad I am so mad I am so mad I am so mad
+
 I will win I will win I will win I will win 
+
 Please stop getting stunned Please stop getting stunned Please stop getting stunned Please stop getting stunned 
+
 
 <div class="break">...</div>
 
