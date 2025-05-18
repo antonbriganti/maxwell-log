@@ -28,30 +28,43 @@
 </head>
 
 <body>
+    <!-- Header -->
     <header class="container">
         <hgroup>
             <h1><a href="/">Maxwell's Log</a></h1>
             <p>What's Maxwell writing?</p>
         </hgroup>
     </header>
+    <!-- ./ Header -->
 
+    <!-- Main -->
     <main class="container">
-        <section id="tableofcontents">
-        <h2>Table of Contents</h2>
-            <ol id="toc">
-                <li><a href="/entries/session-0.html">Session 0</a></li>
-                <li><a href="./entries/intermission-0.html">Intermission 0</a></li>
-                <li><a href="./entries/session-1.html">Session 1</a></li>
-                <li><a href="./entries/session-2.html">Session 2</a></li>
-                </ol>
+        <!-- Preview -->
+        <section id="preview">
+
+            <h2>Session 2</h2>
+            <!-- <div class="header-row">
+                <h3>!!!SUBTITLE!!!</h3>
+                <h4>!!!DATE!!! <span class="small-text">R.D.</span></h4>
+            </div> -->
+            <div id="content"></div>
+            <script>
+                fetch('/md/3-session-2.md')
+                    .then(response => response.text())  // Get file content as text
+                    .then(markdown => {
+                        document.getElementById('content').innerHTML = marked.parse(markdown);
+                    })
+                    .catch(error => {
+                        document.getElementById('content').innerHTML = "Error loading markdown file.";
+                        console.error("Error fetching markdown:", error);
+                    });
+            </script>
+
         </section>
+        <!-- ./ Preview -->
 
     </main>
-
-    <footer class="container">
-        <small>Made poorly but with love - </small>
-        <small><a href="https://github.com/antonbriganti/maxwell-log">91fd52b</a></small>
-    </footer>
+    <!-- ./ Main -->
 
     <!-- Minimal theme switcher -->
     <script src="js/minimal-theme-switcher.js"></script>
