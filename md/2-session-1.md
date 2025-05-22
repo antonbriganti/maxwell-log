@@ -1,3 +1,5 @@
+## Session 1 - Encounter at the Mines
+
 <div class="header-row">
     <h3>Mission Briefing</h3>
     <h4>2.5.7.12 <span class="small-text">R.D.</span></h4>

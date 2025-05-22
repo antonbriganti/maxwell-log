@@ -1,3 +1,5 @@
+## Session 0 - Training Exercise
+
 <div class="header-row">
     <h3>First days on Telegeta IV - Castiria</h3>
     <h4>8.4.7.12 <span class="small-text">R.D.</span></h4>

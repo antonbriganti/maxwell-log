@@ -1,3 +1,5 @@
+## Intermission 0
+
 <div class="header-row">
     <h3></h3>
     <h4>9.4.7.12 <span class="small-text">R.D.</span></h4>
@@ -8,6 +10,7 @@ I had a dream last night. A blonde man told me he walked our path and tells our 
 I never used to put stock in the meaning of dreams, but in my adult years I tend to view them as my subconscious trying to inform my conscious of something important. Then again, the blonde man was a complete stranger and I don’t need to speak to thousands so who knows what my brain is trying to tell me. Maybe it’s a reminder to journal more?
 
 <hr>
+
 <div class="header-row">
     <h3></h3>
     <h4>0.5.7.12 <span class="small-text">R.D.</span></h4>

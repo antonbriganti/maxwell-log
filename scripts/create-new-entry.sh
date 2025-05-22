@@ -12,6 +12,6 @@ cp ./_templates/markdown.template $mdfile
 
 # fill in info
 read -p "Enter title: " entrytitle
-sed -i "" "s/!!!TITLE!!!/$entrytitle/g" "$file"
+sed -i "" "s/!!!TITLE!!!/$entrytitle/g" "$md"
 sed -i "" "s/!!!FILE!!!/$md/g" "$file"
 echo "0. [$entrytitle]($file)" >> ./md/index.md
