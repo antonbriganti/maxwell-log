@@ -17,12 +17,14 @@ I've used the following things:
 - [marked](https://marked.js.org) for rendering markdown 
 
 ### templating 
-I built the world's worst templating engine for this. I didn't feel like using anything big like Jekyll or Astro as part of this so I wrote a basic script (mostly stolen from my blog repo) to do some file creation and templating.
+I built the world's most basic templating engine for this. I didn't feel like using anything big like Jekyll or Astro as part of this so I wrote a basic script (mostly stolen from my blog repo) to do some file creation and templating.
 
 the basic flow is:
 0. create new html and markdown files from `_templates` directory 
-1. use `sed` to insert a title and markdown file name into the html 
-2. use a terrible mix of `sed` + `printf` to insert a reference to the new entry into `index.html` (thank you ChatGPT, this sucks but it works and I was too lazy to find a better solution at 3am)
+1. use `sed` to insert a title into markdown file and markdown file name into the html 
+2. add new entry to `index.md` via `echo`
+
+I'm working on folder/file structure at the moment so things need a bit of manual shifting around at times, but the bulk is pretty easily handled.
 
 ### deploy 
 currently hosted on my home server and shared with friends
