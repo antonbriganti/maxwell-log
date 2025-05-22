@@ -28,18 +28,28 @@
 </head>
 
 <body>
+    <!-- Header -->
     <header class="container">
         <hgroup>
             <h1><a href="/">Maxwell's Log</a></h1>
             <p>What's Maxwell writing?</p>
         </hgroup>
     </header>
+    <!-- ./ Header -->
 
+    <!-- Main -->
     <main class="container">
-        <section id="tableofcontents">
+        <!-- Preview -->
+        <section id="preview">
+
+            <h2>Session 3</h2>
+            <!-- <div class="header-row">
+                <h3>!!!SUBTITLE!!!</h3>
+                <h4>!!!DATE!!! <span class="small-text">R.D.</span></h4>
+            </div> -->
             <div id="content"></div>
             <script>
-                fetch('/md/index.md')
+                fetch('/md/4-session-3.md')
                     .then(response => response.text())  // Get file content as text
                     .then(markdown => {
                         document.getElementById('content').innerHTML = marked.parse(markdown);
@@ -49,14 +59,12 @@
                         console.error("Error fetching markdown:", error);
                     });
             </script>
+
         </section>
+        <!-- ./ Preview -->
 
     </main>
-
-    <footer class="container">
-        <small>Made poorly but with love - </small>
-        <small><a href="https://github.com/antonbriganti/maxwell-log">f08ea73</a></small>
-    </footer>
+    <!-- ./ Main -->
 
     <!-- Minimal theme switcher -->
     <script src="js/minimal-theme-switcher.js"></script>

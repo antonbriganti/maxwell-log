@@ -1,0 +1,12 @@
+services:
+  maxwell-logs:
+    container_name: "maxwell-logs"
+    entrypoint:
+      - "/static-web-server"
+    image: "joseluisq/static-web-server:latest"
+    ports:
+      - "8799:80/tcp"
+    restart: "always"
+    volumes:
+      - ".:/public"
+    working_dir: "/"
