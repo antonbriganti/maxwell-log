@@ -15,8 +15,3 @@ read -p "Enter title: " entrytitle
 sed -i "" "s/!!!TITLE!!!/$entrytitle/g" "$file"
 sed -i "" "s/!!!FILE!!!/$md/g" "$file"
 echo "0. [$entrytitle]($file)" >> ./md/index.md
-
-# # display blog post details
-# echo
-# echo "File: $file"
-# cat "$file"
