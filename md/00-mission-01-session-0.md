@@ -1,4 +1,7 @@
-## Session 0 - Training Exercise
+---
+layout: entry
+title: Session 0 - Training Exercise
+---
 
 <div class="header-row">
     <h3>First days on Telegeta IV - Castiria</h3>

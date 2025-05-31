@@ -1,4 +1,7 @@
-## Session 2 - The Valley Ambush
+---
+layout: entry
+title: Session 2 - The Valley Ambush
+---
 
 <div class="header-row">
     <h3></h3>

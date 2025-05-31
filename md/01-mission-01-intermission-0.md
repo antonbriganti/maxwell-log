@@ -1,4 +1,7 @@
-## Intermission 0
+---
+layout: entry
+title: Intermission 0
+---
 
 <div class="header-row">
     <h3></h3>
