@@ -10,21 +10,11 @@ I've decided to maintain a basic journal for Maxwell to cover his musings and th
 
 ## tech stack 
 ### website
-this is built to be as lightweight as possible, so I've just stuck to markdown for the writing and HTML+CSS for rendering.
+this is built to be as lightweight as possible, so I've just stuck to markdown for the writing rendered to just HTML+CSS.
 
 I've used the following things:
 - [pico css](https://picocss.com) for style base etc.
-- [marked](https://marked.js.org) for rendering markdown 
-
-### templating 
-I built the world's most basic templating engine for this. I didn't feel like using anything big like Jekyll or Astro as part of this so I wrote a basic script (mostly stolen from my blog repo) to do some file creation and templating.
-
-the basic flow is:
-0. create new html and markdown files from `_templates` directory 
-1. use `sed` to insert a title into markdown file and markdown file name into the html 
-2. add new entry to `index.md` via `echo`
-
-I'm working on folder/file structure at the moment so things need a bit of manual shifting around at times, but the bulk is pretty easily handled.
+- [not-hugo, an anton creation](https://github.com/antonbriganti/not-hugo) for rendering html
 
 ### deploy 
 currently hosted on my home server and shared with friends
