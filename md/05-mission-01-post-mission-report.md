@@ -1,4 +1,7 @@
-## Post Mission Report Summary
+---
+layout: entry
+title: Post Mission Report Summary
+---
 
 <div class="header-row">
     <h3></h3>

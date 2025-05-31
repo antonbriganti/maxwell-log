@@ -1,4 +1,7 @@
-## Session 3 - Safsarat Base Clash
+---
+layout: entry
+title: Session 3 - Safsarat Base Clash
+---
 
 <div class="header-row">
     <h3></h3>

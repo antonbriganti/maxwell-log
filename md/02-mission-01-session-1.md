@@ -1,4 +1,7 @@
-## Session 1 - Encounter at the Mines
+---
+layout: entry
+title: Session 1 - Encounter at the Mines
+---
 
 <div class="header-row">
     <h3>Mission Briefing</h3>

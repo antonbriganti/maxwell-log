@@ -1,1 +1,3 @@
 scripts/deploy.sh
+dist/
+not-hugo
