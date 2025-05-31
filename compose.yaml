@@ -8,5 +8,5 @@ services:
       - "8799:80/tcp"
     restart: "always"
     volumes:
-      - ".:/public"
+      - "./dist:/public"
     working_dir: "/"
