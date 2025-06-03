@@ -57,7 +57,7 @@ So imagine my surprise when’s my rage cleared, I realised there were discrepan
 
 What is going on here? I don’t think the Captain is lying to us, so does that mean he was betrayed by his own Unit? I never really thought I could trust the military completely, but how far does the corruption rot? I wonder if the Dog Man is in on this apparent conspiracy, seeing as though he is a disciple of one of the Unit 00 soldiers. 
 
-It’s not uncommon for the military to ask for blind obedience. The Knight Errant’s Code asks for unwavering loyalty and unconditional forgive, and it’s certainly not the only militaristic creed to ask for something along those lines. But I am not a soldier. I can’t blindly trust like that. I am curious by nature and curiosity is only a couple steps away from suspicious. 
+It’s not uncommon for the military to ask for blind obedience. The Knight Errant’s Code asks for unwavering loyalty and unconditional forgiveness, and it’s certainly not the only militaristic creed to ask for something along those lines. But I am not a soldier. I can’t blindly trust like that. I am curious by nature and curiosity is only a couple steps away from suspicious. 
 
 I decided to keep the discrepancies to myself for now, and I hope Vuelo does as well. I’ll only bring it up when I know I can trust my unit. I want to be able to live long enough to finish my work, and I can’t do that if someone from military leadership is going to backstab us like they did with Captain. Or worse, if someone from my own Unit literally backstabs me in the field. I guess I should be thankful I’m the only close range man on the team. 
 
