@@ -1,4 +1,4 @@
-update-hugo:
+update-not-hugo:
 	git clone https://github.com/antonbriganti/not-hugo.git
 	cd not-hugo && go build
 	mv ./not-hugo/not-hugo ./scripts/
