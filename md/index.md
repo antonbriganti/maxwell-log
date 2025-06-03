@@ -9,4 +9,4 @@ title: Table of Contents
 0. [Session 2 - The Valley Ambush](/entry/mission-01-session-2)
 0. [Session 3 - Safsarat Base Clash](/entry/mission-01-session-3)
 0. [Post Mission Report](/entry/mission-01-post-mission-report)
-0. [Interlude 2 - Post Mission Downtime](entry/mission-01-interlude-02)
+0. [Interlude 2 - Post Mission Downtime](entry/mission-01-interlude-2)
