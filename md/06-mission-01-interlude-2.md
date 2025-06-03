@@ -48,7 +48,7 @@ One last interesting tidbit. Even when Captain was a pilot, he was a hacker. So 
 
 <div class="header-row">
     <h3></h3>
-    <h4>0.6.7.12 <span class="small-text">R.D.</span></h4>
+    <h4>1.6.7.12 <span class="small-text">R.D.</span></h4>
 </div>
 
 The problem with gambling is that even the luckiest will eventually lose. It is a game of lopsided odds, and even if they were in your favour most of the time, you would not get the thrill of the gamble. Because of this, I am used to losing, so despite my anger, I was not necessarily surprised when the Captain decided to immediately reveal to the unit the very information that I just went into debt to get. The irony of the moment was befitting of the bad luck I had yesterday. It felt almost like karmic retribution for the fact that I still got what I wanted despite my terrible hands.
@@ -68,8 +68,11 @@ We’re going back into the mines to figure out the truth behind the R.O.. Vuelo
 <div class="break">...</div>
 
 _The Soft Glow of a Midnight Moon. Sense._
+
 _The Buzz of Insects on a Warm Summer Night. Be._
+
 _The Crash of Waves on Ocean. Cliffs._
+
 _Control The Rumble of Distant Thunderstorms. Release._
 
 More poetic than I would have thought a military to use as a deactivation phrase. I hope I can ask Mercury about what they think of each of the things without triggering the re-association because I don’t want the Captain yelling at me for getting him out of the mech for nothing.
