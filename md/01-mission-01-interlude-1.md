@@ -1,6 +1,6 @@
 ---
 layout: entry
-title: Intermission 0
+title: Interlude 1
 ---
 
 <div class="header-row">
