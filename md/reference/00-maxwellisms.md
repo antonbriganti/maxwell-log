@@ -1,5 +1,5 @@
 ---
-layout: reference
+layout: entry
 title: Maxwell-isms
 ---
 
