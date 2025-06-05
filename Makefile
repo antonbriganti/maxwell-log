@@ -6,12 +6,16 @@ update-not-hugo:
 	rm -rf not-hugo/
 
 render:
+	$(MAKE) clean
 	cp style.css dist/
 	cp -r images/ dist/
 	./scripts/not-hugo
 
 create:
 	./scripts/create-new-entry.sh
+
+clean:
+	rm -rf dist/*
 
 deploy:
 	$(MAKE) render
