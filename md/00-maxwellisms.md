@@ -6,9 +6,9 @@ title: Maxwell-isms
 _In order to aid my responsibilities with summarising Lt. Maxwell's reports, I have decided to keep a reference document of any acronoyms and/or pseudonyms that he includes in his work. I have decided to refer to these as Maxronyms and Maxeudonyms to highlight that these are non-standard military parlance. - Junior Officer Rocia Monero_
 
 ### Maxronyms
-- **R.O.** - Red Object (f.k.a. Unknown Entity)
-- **MIP** - Mercury Interaction Protocol
-- **4YAPI** - 4 Year Ago Paracausal Incident
+- **R.O.** - Red Object, formerly known as the Unknown Entity. A potentially paracausal object found during the Corcosan Mines Incident
+- **MIP** - Mercury Interaction Protocol. A list of rules for intereacting with the being known as Mercury during missions.
+- **4YAPI** - 4 Year Ago Paracausal Incident. An unknown paracausal event from 4 years ago (5012u).
 
 ### Maxeudonyms
 #### Unit 02
