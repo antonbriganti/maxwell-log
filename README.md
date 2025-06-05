@@ -14,7 +14,7 @@ this is built to be as lightweight as possible, so I've just stuck to markdown f
 
 I've used the following things:
 - [pico css](https://picocss.com) for style base etc.
-- [not-hugo, an anton creation](https://github.com/antonbriganti/not-hugo) for rendering html
+- [!hugo, an anton creation](https://github.com/antonbriganti/not-hugo) for rendering html
 
 ### deploy 
 currently hosted on my home server and shared with friends
