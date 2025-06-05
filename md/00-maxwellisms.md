@@ -1,6 +1,6 @@
 ---
 layout: reference
-title: Maxronyms and Maxeudonyms
+title: Maxwell-isms
 ---
 
 _In order to aid my responsibilities with summarising Lt. Maxwell's reports, I have decided to keep a reference document of any acronoyms and/or pseudonyms that he includes in his work. I have decided to refer to these as Maxronyms and Maxeudonyms to highlight that these are non-standard military parlance. - Junior Officer Rocia Monero_
