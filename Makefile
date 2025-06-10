@@ -7,8 +7,7 @@ update-not-hugo:
 
 render:
 	$(MAKE) clean
-	cp style.css dist/
-	cp -r images/ dist/
+	cp -r public/* dist/
 	./scripts/not-hugo
 
 create:
