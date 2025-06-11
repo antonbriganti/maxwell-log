@@ -28,12 +28,13 @@ title: Maxwell's Questions
 - Does he perceive the gap as a blink?
 - Does this mean that the waves are a compartmentalisation of Mercury’s own creation?
 - Is Mercury aware of social constructs like gender and race, or does he not have any reason to try and identify or differentiate things unimportant to the battlefield?
-- The leader identified themselves as a Bishop, I wonder how high of a rank that is
+- The leader identified themselves as a Bishop, I wonder how high of a rank that is?
 - To what extent does Mercury view themself as the robot? 
 - Do they somehow only see through the sensors? 
 - Is dissociation actually about separating the Captain’s brain from his body so that it’s an unconscious conduit between the being known as Mercury and the controls of the mech?
 - Does that mean Mercury will never truly _feel_ the sun on his face or the texture of paper?
 - Isn’t flesh and skin the same thing, or is there some hidden meaning to differentiate the two?
+- Okay seriously, is it **squad** or is it **unit**?
 - Does he understand the irony of a man in the darkness saying that?
 
 #### Interlude 2

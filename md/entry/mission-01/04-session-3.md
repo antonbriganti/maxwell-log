@@ -37,7 +37,7 @@ Soul, flesh, skin, bone. The four pillars of the Church of Materialism. Isn’t 
     <h4>4.5.7.12 <span class="small-text">R.D.</span></h4>
 </div>
 
-Okay seriously, is it **squad** or is it **unit** because people are using squad more than unit, to the point that someone called _us_ Squad 02. An academic like me needs some consistency. 
+Okay seriously, is it **squad** or is it **unit**? Because people are using squad more than unit, to the point that someone called _us_ Squad 02. An academic like me needs some consistency. 
 
 I’ve gotten ahead of myself. Today we met with some military bigwig called the Director. Interesting man, he’s got a sensitivity to light. I wonder if that’s some kind of war injury. We had a debrief where we went over our key mission details. The Director said that while they had no data on the R.O. (which he called the Unknown Entity, strange name for it if you ask me), he felt it was similar to a paracausal incident 4 years ago. He was light on the details about that particular topic, saying we’d be looped in if it ends up being relevant. Not sure I believe a single word of that though. 
 
