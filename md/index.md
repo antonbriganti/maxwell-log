@@ -10,3 +10,6 @@ title: Table of Contents
 0. [Session 3 - Safsarat Base Clash](/entry/mission-01/session-3)
 0. [Post Mission Report](/entry/mission-01/post-mission-report)
 0. [Interlude 2 - Post Mission Downtime](entry/mission-01/interlude-2)
+
+#### Mission 2 - Red Object Truth Expedition 
+0. [Session 1 - Struggles in Space](entry/mission-02/session-01)
