@@ -12,4 +12,5 @@ title: Table of Contents
 0. [Interlude 2 - Post Mission Downtime](entry/mission-01/interlude-2)
 
 #### Mission 2 - Red Object Truth Expedition 
-0. [Session 1 - Struggles in Space](entry/mission-02/session-01)
+0. [Session 1 - Space Station Scramble](entry/mission-02/session-01)
+0. [Session 2 - Checkpoint Collision](entry/mission-02/session-02)
