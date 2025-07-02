@@ -47,7 +47,7 @@ title: Maxwell's Questions
 - I never really thought I could trust the military completely, but how far does the corruption rot? 
 
 ### Mission 2 
-### Session 1 
+#### Session 1 
 - If I told him the truth of what happened that day, would he still harbour resentment for Hordistrum? 
 - Would he even believe me that that’s what happened?
 - But if I’m fighting alongside him, what does that make me?
