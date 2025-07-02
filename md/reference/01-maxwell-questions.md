@@ -45,3 +45,21 @@ title: Maxwell's Questions
 - What is going on here?
 - I don’t think the Captain is lying to us, so does that mean he was betrayed by his own Unit?
 - I never really thought I could trust the military completely, but how far does the corruption rot? 
+
+### Mission 2 
+### Session 1 
+- If I told him the truth of what happened that day, would he still harbour resentment for Hordistrum? 
+- Would he even believe me that that’s what happened?
+- But if I’m fighting alongside him, what does that make me?
+- What could have ignited this newfound curiosity and quest for answers?
+- Is this a side effect of the Dissociation Process?
+- Is it a coping mechanism that Mercury has created to deal with the endless stress of a life lived in combat?
+
+#### Session 2
+- What did Mercury feel when they went through the drop? 
+- Do they even feel pain?
+- Does the existence of reassociation phrases for Mercury imply dissociation phrases for Captain? 
+- Did they learn it from me? 
+- That’s solipsistic of me, I know, but what are the chances that when I learned Vuelo’s name, Mercury did as well?
+- Was he doing it to garner sympathy from us, to make us associate the idea of violence against him as horrifying as pain being inflicted against an innocent animal?
+- Was there really no other way we could have gotten through the checkpoint? 
