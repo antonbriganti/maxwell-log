@@ -14,3 +14,4 @@ title: Table of Contents
 #### Mission 2 - Red Object Truth Expedition 
 0. [Session 1 - Space Station Scramble](entry/mission-02/session-01)
 0. [Session 2 - Checkpoint Collision](entry/mission-02/session-02)
+0. [Session 3 - Paracausal Cave In](entry/mission-02/session-03)
