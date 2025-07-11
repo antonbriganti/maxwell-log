@@ -14,9 +14,9 @@ _As before, this is a summary of Lieutenant Maxwell F Olvani’s mission notes. 
 
 #### Toskr Space Station 
 - Lt. Maxwell seemed to have some reservations about Lt. Ryker’s change in weaponry, citing concerns that the latter’s performance in previous combat scenarios was exemplary and changing effective strategies posed a significant risk. 
-- A significant amount of risks were taken and resources were invested in safeguarding Toskr Station.
 - Lt. Maxwell highlighted Lt. Vuelo and Mercury as being key to the final success.
 - There were concerns about the suicidal strategies used by the enemy and how the unit may have been complicit in the deaths of the unknown force (later assumed to be Comedia), but also an acknowledgment that it was beyond the control of Unit 02 and that protecting the station was the highest priority. 
+- A significant amount of risks were taken and resources were invested in safeguarding Toskr Station.
 
 #### Mines Checkpoint
 - Lt. Maxwell noted that Captain was not able to re-associate without manual intervention. He said if this was an intentional change, it should have been communicated to the team before mission start in light of the Safsarat Base Mercury incident.
