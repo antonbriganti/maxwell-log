@@ -27,7 +27,7 @@ Dog Man’s family is an interesting bunch, or at least I think so based on my e
 
 After we were free from the convention, Dog Man brought us back to his family’s for dinner. I was finally able to get a grasp on what his people are like. They live a humble, community-focused life, as you’d expect from a nomadic tribe. Everyone knows everyone, and they’re focused on taking care of each other. How did Dog Man end up the soldier that he is coming from roots like these? I just can’t get a good read on him at all. How many shades of grey does he really have? (Note to self, ask Dog Man if he’s colour blind or not)
 
-Character study of Dog Man aside, it was nice to just spend some time away from the Chateau and the stuffiness of the military. It reminded me of my time as an academic, spending time researching belief systems and just immersing myself into new cultures so I could understand them. He doesn’t know it, Dog Man gave me the best birthday gift I’d gotten in a while. 
+Character study of Dog Man aside, it was nice to just spend some time away from the Chateau and the stuffiness of the military. It reminded me of my time as an academic, spending time researching belief systems and just immersing myself into new cultures so I could understand them. He doesn’t know it, but Dog Man gave me the best birthday gift I’d gotten in a while. 
 
 <hr>
 
