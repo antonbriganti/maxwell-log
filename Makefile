@@ -17,6 +17,9 @@ local-server:
 	$(MAKE) render
 	docker compose up
 
+word-count:
+	find md -name "*.md" -type f -exec python3 scripts/word-counter.py {} \; | sort
+
 update-not-hugo:
 	git clone https://github.com/antonbriganti/not-hugo.git
 	cd not-hugo && go build

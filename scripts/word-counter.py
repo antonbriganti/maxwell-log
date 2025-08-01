@@ -1,0 +1,25 @@
+import sys
+from io import StringIO
+from html.parser import HTMLParser
+
+class MLStripper(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.reset()
+        self.strict = False
+        self.convert_charrefs= True
+        self.text = StringIO()
+    def handle_data(self, d):
+        self.text.write(d)
+    def get_data(self):
+        return self.text.getvalue()
+
+def strip_tags(html):
+    s = MLStripper()
+    s.feed(html)
+    return s.get_data()
+
+filename = sys.argv[1] # no checking if input is there, screw it we ball
+with open(filename, 'r') as f:
+    res = strip_tags(f.read())
+    print(filename, len(res.split()))    
