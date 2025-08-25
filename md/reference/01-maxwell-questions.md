@@ -31,7 +31,7 @@ title: Maxwell's Questions
 - The leader identified themselves as a Bishop, I wonder how high of a rank that is?
 - To what extent does Mercury view themself as the robot? 
 - Do they somehow only see through the sensors? 
-- Is dissociation actually about separating the Captain’s brain from his body so that it’s an unconscious conduit between the being known as Mercury and the controls of the mech?
+- Is de-association actually about separating the Captain’s brain from his body so that it’s an unconscious conduit between the being known as Mercury and the controls of the mech?
 - Does that mean Mercury will never truly _feel_ the sun on his face or the texture of paper?
 - Isn’t flesh and skin the same thing, or is there some hidden meaning to differentiate the two?
 - Okay seriously, is it **squad** or is it **unit**?
@@ -52,13 +52,13 @@ title: Maxwell's Questions
 - Would he even believe me that that’s what happened?
 - But if I’m fighting alongside him, what does that make me?
 - What could have ignited this newfound curiosity and quest for answers?
-- Is this a side effect of the Dissociation Process?
+- Is this a side effect of the de-association process?
 - Is it a coping mechanism that Mercury has created to deal with the endless stress of a life lived in combat?
 
 #### Session 2
 - What did Mercury feel when they went through the drop? 
 - Do they even feel pain?
-- Does the existence of reassociation phrases for Mercury imply dissociation phrases for Captain? 
+- Does the existence of reassociation phrases for Mercury imply de-association phrases for Captain? 
 - Did they learn it from me? 
 - That’s solipsistic of me, I know, but what are the chances that when I learned Vuelo’s name, Mercury did as well?
 - Was he doing it to garner sympathy from us, to make us associate the idea of violence against him as horrifying as pain being inflicted against an innocent animal?
