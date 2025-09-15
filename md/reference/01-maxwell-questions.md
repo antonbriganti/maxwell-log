@@ -63,3 +63,62 @@ title: Maxwell's Questions
 - That’s solipsistic of me, I know, but what are the chances that when I learned Vuelo’s name, Mercury did as well?
 - Was he doing it to garner sympathy from us, to make us associate the idea of violence against him as horrifying as pain being inflicted against an innocent animal?
 - Was there really no other way we could have gotten through the checkpoint? 
+
+#### Session 3
+- Did he try to milk it, make the best out of a bad situation?
+- Do I actually believe any of this, or am I just trying to bury my own guilt and do something I can declare as moral or ethical to justify my treatment of Mercury?
+- Just what was that six-armed beast? 
+- And why did it seem to almost regress, devolving into some kind of core that almost resembled an egg from which it was born? 
+- Is that the fate of any pilot who was exposed to the Red ~~Object~~ Entity, or was it just because Samira was unlucky enough to be the first to be exposed? 
+- Is it emblematic of a rebirth or an omen of a failed future? 
+- Is he though? 
+- What did he do to contribute to our success?
+- If we died in those nuclear blasts or fighting that demon, who would have been the one that actually lived those final moments?
+- Why would they need that? 
+
+#### Interlude
+- Considering he also pretty obviously lied about his hand not being injured, maybe he’s not an expert liar after all? 
+- How did Dog Man end up the soldier that he is coming from roots like these?
+- How many shades of grey does he really have?
+- Just who is Mr. Blonde?
+- Is he a paracausal entity who is haunting my dreams?
+- Perhaps, but to what end does that benefit them? 
+- Are they to become the new boogeyman whenever the government wants to do something?
+- Does he get withdrawals if he doesn’t de-associate frequently enough?
+- What was I thinking?
+- Who am I to question his loyalty when I was so unsure of my own that I let paranoia and ignorance cloud my view?
+- Have our paths diverged again?
+- Maybe that’s where he underwent The Procedure?
+- How many times will I let my squad mates down?
+- She’s always so frazzled whenever I see her, just how hard does the Castirian army push the Lancer support staff?
+- What am I loyal to?
+- How can I use my voice?
+- If I didn’t want to search for the Red Entity, would Samira still be alive? 
+- So again, I ask myself - what am I loyal to? 
+
+### Mission 3
+#### Sessions 1 and 2
+- Knowledge is one thing, but can an emotion be so strong it crosses the de-association boundary?
+- So he can ask the Hords to transport paramilitary forces into Castiria’s mainland to violently crush civil unrest, but not mobilise anything to save his people?
+- What could have been so horrific that he had to remove it without telling his future self that’s what happened, in case he wanted to know?
+- Did he have so much trust in his adoration for the military chain of command that he thought he’d never chase the truth? 
+- Why get every soldier present to swear to secrecy?
+- Why do none of the official documents state that Captain hacked the others?
+- Above all else, if the 2P is truly capable of complete control over Captain (or anyone for that matter), why didn’t Handler tell us before we went out
+- Who knew I’d be wanting some of that military conditioning that Runner is always murmuring to herself about?
+- Does that mean it deserves some kind of, for the lack of a better word, humane treatment?
+- Is experimenting on it tantamount to torture?
+- Would destroying the frame be murder?
+- Is it because this was by his hand, even if it wasn’t by his mind?
+- So, how does this work then?
+- Is it something in that extra hardware which took longer to install?
+- Or is this deeper?
+- Is this something that’s part of the de-association process which has cut out Mercury’s ability to respond to certain topics?
+
+#### Session 3
+- The question is, was it waiting for us, somehow aware that the Captain would come for it?
+- Is this another persona that has been embedded into the Captain?
+- If Mercury is a flawed imitation of “Instinct”, and Mercury and the Captain are unable to coexist at the same time, does that mean this third persona is able to be present? active? regardless of who is associated?
+- What exactly is changing? 
+- Does this somehow relate to the R.E.’s suggestion that we should tremble at what is to come?
+- What the hell is happening on this planet?

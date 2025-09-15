@@ -28,9 +28,9 @@ The other allegation was that Captain hacked Unit 00 during the 4YAPI, jamming t
 
 <div class="break">...</div>
 
-I can’t believe we met up with the Priest again, what are the odds! He seemed to be pretty understanding of us trying to reclaim the 3P, but not understanding enough that he was willing to give it away without a fight. Before everything escalated, he did scan me and confirm that my soul does not weigh heavily. So maybe Mr. Blonde is just my subconscious after all. 
+I can’t believe we met up with the Priest again, what are the odds! He seemed to be pretty understanding of us trying to reclaim the 2P, but not understanding enough that he was willing to give it away without a fight. Before everything escalated, he did scan me and confirm that my soul does not weigh heavily. So maybe Mr. Blonde is just my subconscious after all. 
 
-I had trouble adjusting to Alitheia during our initial skirmish when we landed. I took on more damage than I would have liked to, and I’m not someone who’s minded some wear and tear. The lack of rest between combat was a bit of a struggle for me. Who knew I’d be wanting some of that military conditioning that Runner is always murmuring to herself about? Maybe I should ask Ryker to run me through some drills when we’re back at the base?
+I had trouble adjusting to Alitheia during our initial skirmish when we landed. I took on more damage than I would have liked to, and I’m not someone who’s minded some wear and tear. The lack of rest between combat was a bit of a struggle for me. Who knew I’d be wanting some of that military conditioning that Runner is always murmuring to herself about? Maybe I should ask Ryker to run me through some drills when we’re back at the base.
 
 <div class="break">...</div>
 
