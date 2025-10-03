@@ -8,7 +8,7 @@ title: Session 3 - A Confrontation 4 Years In The Making
     <h4>1.0.8.12 <span class="small-text">R.D.</span></h4>
 </div>
 
-We just had an eventful encounter with the 2P, to say the least. Right after landing, it broke out of its containment cub by itself. Vuelo inspected it later and confirmed that the drop hadn’t actually damaged it, so it seems like the Church was wrong; it hadn’t been subdued or sleeping. It was awake and waiting. The question is, was it waiting for us, somehow aware that the Captain would come for it?
+We just had an eventful encounter with the 2P, to say the least. Right after landing, it broke out of its containment cube by itself. Vuelo inspected it later and confirmed that the drop hadn’t actually damaged it, so it seems like the Church was wrong; it hadn’t been subdued or sleeping. It was awake and waiting. The question is, was it waiting for us, somehow aware that the Captain would come for it?
 
 The being inside the 2P told me that while it has previously been gone by many names, including Kimaris, so the Church identified it correctly. In this era, however, they don the foreboding title of Judgement. When I have time back at the Chateau, I will have to do some research about this demon known as “Kimaris” and see if there’s any stories about them being a force of punishment and retribution. I’d like to ask the Church themselves what they know, but after our heist and Mercury’s murder on the ship, I doubt they’d be willing to work with us in any friendly capacity. 
 

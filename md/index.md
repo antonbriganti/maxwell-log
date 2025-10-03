@@ -21,3 +21,4 @@ title: Table of Contents
 #### Mission 3 - Paracausal Pegasus Retrieval
 0. [Sessions 1 & 2 - Flight and Fight](entry/mission-03/session-01-02)
 0. [Session 3 - A Confrontation 4 Years In The Making](entry/mission-03/session-03)
+0. [Paracausal Pegasus Retrieval Post Mission Report](entry/mission-03/post-mission-report)
