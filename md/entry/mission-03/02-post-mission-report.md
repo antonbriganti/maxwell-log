@@ -28,6 +28,8 @@ _As before, this is a summary of Lieutenant Maxwell F Olvani’s mission notes. 
 - HUP1 possesses high combat intelligence and prowess, as it was able to take out both Lt. Vuelo’s and Capt. Hermes’ mechs. 
 - Lt. Maxwell does not seem convinced that this is the last we’ll see of HUP1. No reasoning was provided. 
 
+<hr>
+
 *A/N*: _I personally find it hard to call this mission a success. Not only did they fail to capture HUP1, it seems Unit 02 also failed to learn anything that would help us in future paracausal encounters. I think it may have been more beneficial to have let the Quartic Church keep it and research it, that way at least something could have been divined from the entity._ 
 
 _I do not mean to be critical of Unit 02 - I just think that the operation had too many unknowns and may have been rushed into due to personal feelings, and it had a negative effect on the mission._
