@@ -8,7 +8,7 @@ title: Interlude 1 - Post Mission Downtime, Pt. 1
     <h4>2.0.8.12 <span class="small-text">R.D.</span></h4>
 </div>
 
-Handed my post mission report in today. She didn’t seem particularly impressed with the results of the mission, but she also doesn’t know what really happened out there, so she can’t really judge us. 
+Handed my post mission report in to Runner today. She didn’t seem particularly impressed with the results of the mission, but she also doesn’t know what really happened out there, so she can’t really judge us. 
 
 I did briefly see Captain while I was at the base. He seemed better than yesterday but still pretty shell-shocked. I have to admit, I do feel some guilt about how suspicious I’ve been towards him for the last month or so. It’s becoming clearer to me that he is not privy to whatever conspiracy is afoot and is clearly a victim of its cruel machinations. I still don’t like him on a personal level though.
 
@@ -19,7 +19,7 @@ I did briefly see Captain while I was at the base. He seemed better than yesterd
     <h4>4.0.8.12 <span class="small-text">R.D.</span></h4>
 </div>
 
-All of Unit 02 was called to the morgue this morning. The Director was there and showed up the corpse of 01’s captain, and followed it up by telling us their entire unit had been wiped out. I could have sworn there was a snide remark mixed in there, subtly suggesting that was our fault they had all died. Ryker certainly felt some level of guilt over their deaths. I can’t say I share the same emotions, though, regardless of what guilt-tripping is thrown my way. There were other options that could have been utilised to try and save them. Their tragic deaths are a result of inaction and possibly indifference from the government and military leadership. 
+All of Unit 02 was called to the morgue this morning. The Director was there and showed up the corpse of 01’s captain, and followed it up by telling us their entire unit had been wiped out. I could have sworn there was a snide remark mixed in there, subtly suggesting that was our fault they had all died. Ryker certainly felt some level of guilt over their deaths. I can’t say I share the same emotions, though, regardless of what guilt-tripping is thrown my way. There were other options that could have been utilised to try and save them. Their tragic deaths are a result of inaction, and possibly indifference, from the government and military leadership. 
 
 Director told us that allegedly Unit 01 and some of the Hordish pilots were defeated by unknown black mechs who had the same suicidal cockpits as the ones we faced on the space station. That makes two attacks, both from the same faction and both targeted Castirian Lancer units while in Hordish-aligned territory. Add on the fact that 01 Captain’s last words were a warning that they were attacked by Hordish Lancer known as Butcher, and it’s starting to look like that Hordistrum might just be acting against Castiria via proxy. Then again, it’s not like the Hords are unaffected by all this. They’ve had damage to infrastructure and lost soldiers as well. Maybe the mysterious faction is just trying to stoke some fire as cover for something else. 
 
@@ -38,7 +38,7 @@ But Captain doesn’t know that those people exist, because I haven’t told him
     <h4>5.0.8.12 <span class="small-text">R.D.</span></h4>
 </div>
 
-I spent all day in the Chateau today, trying to learn whatever I could about Kimaris and Amun. There are days where I greatly miss being just an academic. The rush of learning new things, the feeling of solitude found only in a quiet library surrounded by dusty books. When I am just an academic, I am free from the weight of responsibility.  I only need to interpret the history and information in front of me, not shape or obscure it. It is simpler. It is easier. 
+I spent all day in the Chateau today, trying to learn whatever I could about Kimaris and Amun. There are days where I greatly miss being _just_ an academic. The rush of learning new things, the feeling of solitude found only in a quiet library surrounded by dusty books. When I am _just_ an academic, I am free from the weight of responsibility.  I only need to interpret the history and information in front of me, not shape or obscure it. It is simpler. It is easier. 
 
 Aside from being struck with forlorn nostalgia, I found a book titled “A to N: A Primer on Abujan History”. Despite the strange title, it was a pretty detailed book that did have a mythology section which mentioned Amun, but nothing about Kimaris. In hopes of learning more, I reached out to the Beleriki Professor who wrote it to see if we could meet, and if he would indulge me in a private lecture. He suggested we have lunch at what sounded like a very fancy place instead. Despite my lack of money due to my debt with Bosco, I agreed. 
 
