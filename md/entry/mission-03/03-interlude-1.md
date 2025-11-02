@@ -55,9 +55,9 @@ Today I met up with the Professor for lunch. I ended up bringing Captain along, 
 
 The Professor was able to teach us a great amount of things. Demons from the Abujan era (who he is under the impression are no longer a thing) held domains akin to deities in other mythologies and religions. Kimaris, who was portrayed in an old statue at the restaurant exactly like the being we saw in the swamp, was the patron of grammar and logic. Probably a result of such a specific domain, Kimaris was lesser known, but the military found some love for the demon. Amun, who was depicted as a being with an “owl wolf” head and snake body, has the wider-reaching domain of the past, future, and reconciliation. All I could think about after hearing that is how the lost minds stanza definitely hits those themes: “how the once thought” and “what is to come” in particular feel like emblematic. 
 
-Interestingly, it seems that their shared demonhood is the only known connection between the two entities, though the Professor said the two can be seen as opposites in some regard. Amun has an association with creation, Kimaris one with destruction, presumably due to the military association? So the fact that they’re both active right now might just be a huge coincidence. I can’t tell if that’s lucky or not. 
+Interestingly, it seems that their shared demonhood isn't the only known connection between the two entities, as they're sometimes depicted as lovers and other times as enemies. So the fact that they’re both active right now might not just be a coincidence. I can only hope they're in their enemy phase at the moment so they're not working together. 
 
-The Professor also didn’t seem to know any correlation between Kimaris and the theme of Judgement, so that must be a new thing. Why did it choose to rename itself but Amun didn’t? I wonder if it means Judgement found a new purpose outside of grammar and logic, and thus crafted a new identity, while Amun is still working within its old domain. 
+The Professor also didn’t seem to know any correlation between Kimaris and the theme of Judgement, so that must be a new thing. Why did it choose to rename itself but Amun didn’t? I wonder if it means Judgement found a new purpose outside of grammar and logic (and destruction?), and thus crafted a new identity, while Amun is still working within its old domain. Judgement created whatever "Instinct" is in Captain, so maybe the two are feuding over the theme of creation. I'd like that to be the case, but a gambler knows not to get his hopes up on unknown odds. 
 
 Captain didn’t engage in most of the conversation, which surprised me. It turns out he didn’t read any of the post mission reports and didn’t realise that Kimaris was what was inside the 2P. I guess that’s on me for assuming he read my hard work like a captain should. I told him to take some time and reflect on what he heard today, and that we can talk about everything we’ve all learned as a team soon. I can tell he knows I know more than I’m telling him, but the timing wasn’t right. 
 
@@ -65,7 +65,7 @@ Captain didn’t engage in most of the conversation, which surprised me. It turn
 
 Forgot to mention, ran into Bosco at lunch. He’s getting antsy for his money. Need to figure out how I can repay him soon. Captain also now knows about the debt I’m in but doesn’t know why. He didn’t seem overtly judgemental about it, which is nice. 
 
-At least the Professor paid for lunch. Perhaps those with tenure aren’t so bad on Telgeta IV and don’t abuse their standing against people below them. Or maybe the Professor just values experiences like the promised mech ride more than money. Wish Bosco felt the same way. 
+The Professor offered paid for lunch, but the Captain somehow pulled rank on him despite his civilian status and paid instead. That's the confidence of a career military man I suppose. Perhaps those with tenure aren’t so bad on Telgeta IV and don’t abuse their standing against people below them. Or maybe the Professor just values experiences like the promised mech ride more than money. Wish Bosco felt the same way. 
 
 <hr>
 
