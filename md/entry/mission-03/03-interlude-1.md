@@ -65,7 +65,7 @@ Captain didn’t engage in most of the conversation, which surprised me. It turn
 
 Forgot to mention, ran into Bosco at lunch. He’s getting antsy for his money. Need to figure out how I can repay him soon. Captain also now knows about the debt I’m in but doesn’t know why. He didn’t seem overtly judgemental about it, which is nice. 
 
-The Professor offered paid for lunch, but the Captain somehow pulled rank on him despite his civilian status and paid instead. That's the confidence of a career military man I suppose. Perhaps those with tenure aren’t so bad on Telgeta IV and don’t abuse their standing against people below them. Or maybe the Professor just values experiences like the promised mech ride more than money. Wish Bosco felt the same way. 
+The Professor offered to pay for lunch, but the Captain somehow pulled rank on him despite his civilian status and paid instead. That's the confidence of a career military man I suppose. Perhaps those with tenure aren’t so bad on Telgeta IV and don’t abuse their standing against people below them. Or maybe the Professor just values experiences like the promised mech ride more than money. Wish Bosco felt the same way. 
 
 <hr>
 
