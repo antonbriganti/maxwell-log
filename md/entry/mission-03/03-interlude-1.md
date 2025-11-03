@@ -65,7 +65,7 @@ Captain didn’t engage in most of the conversation, which surprised me. It turn
 
 Forgot to mention, ran into Bosco at lunch. He’s getting antsy for his money. Need to figure out how I can repay him soon. Captain also now knows about the debt I’m in but doesn’t know why. He didn’t seem overtly judgemental about it, which is nice. 
 
-The Professor offered to pay for lunch, but the Captain somehow pulled rank on him despite his civilian status and paid instead. That's the confidence of a career military man I suppose. Perhaps those with tenure aren’t so bad on Telgeta IV and don’t abuse their standing against people below them. Or maybe the Professor just values experiences like the promised mech ride more than money. Wish Bosco felt the same way. 
+The Professor offered to pay for lunch, but the Victor somehow pulled rank on him despite his civilian status and paid instead. That's the confidence of a career military man I suppose. Perhaps those with tenure aren’t so bad on Telgeta IV and don’t abuse their standing against people below them. Or maybe the Professor just values experiences like the promised mech ride more than money. Wish Bosco felt the same way. 
 
 <hr>
 
@@ -76,7 +76,7 @@ The Professor offered to pay for lunch, but the Captain somehow pulled rank on h
 
 The Professor said that the Abujan belief was that demons responded to calls from people, and that’s when they manifested and took action. So who brought Judgement to the battlefield during the 4YAPI? I doubt it was the people of Lang, as the 2P was used against them once the Captain jumped on it. 
 
-If it was actually summoned, there are two possibilities in my mind about who could have done it. One, Captain did it accidentally in the midst of wanting a way to win the conflict, and perhaps resonated with an Abujan artefact nearby. Or two, it was intentionally called forth by a Castirian-aligned force like Unit 00 so they could observe the power of an ancient demon. They would know the Captain’s fighting style and would have expected him to latch on as per his usual modus operandi. If it was someone from 00, I would have to assume it’s Ryker’s Mentor. How else would a legendary soldier let an underling get the better of him on the battlefield?
+If it was actually summoned, there are two possibilities in my mind about who could have done it. One, Victor did it accidentally in the midst of wanting a way to win the conflict, and perhaps resonated with an Abujan artefact nearby. Or two, it was intentionally called forth by a Castirian-aligned force like Unit 00 so they could observe the power of an ancient demon. They would know the Captain’s fighting style and would have expected him to latch on as per his usual modus operandi. If it was someone from 00, I would have to assume it’s Ryker’s Mentor. How else would a legendary soldier let an underling get the better of him on the battlefield?
 
 <div class="break">...</div>
 
@@ -86,7 +86,7 @@ We told Captain everything we had learned about him and the 4YAPI, from the repo
 
 Is his anger justified? He’s been betrayed by every person and/or system around him. Hell, if he really did wipe his memory, you could see it as him betraying himself. He has been left in the dark completely, and only now are people trying to illuminate him. 
 
-In the midst of his rage and rants about lack of trust, Captain brought back up the idea of sharing the information we learned from 01 Captain’s recording, but through unofficial channels instead. I think I’d be a hypocrite if I condemned the idea. I have always thought his biggest flaw was his deference to the systems that have acted against him, even though he was unaware of that. Now he is rebelling against them in his own way. I think it’s shortsighted to rebel by empowering it, but the man is trying at least. For the time being, Ryker has seemingly convinced him not to leak anything until we investigate what happened ourselves, but we’ll see if Captain gives into his impulses first. 
+In the midst of his rage and rants about lack of trust, Captain brought back up the idea of sharing the information we learned from 01 Captain’s recording, but through unofficial channels instead. I think I’d be a hypocrite if I condemned the idea. I have always thought his biggest flaw was his deference to the systems that have acted against him, even though he was unaware of that. Now he is rebelling against them in his own way. I think it’s shortsighted to rebel by empowering it, but the man is trying at least. For the time being, Ryker has seemingly convinced him not to leak anything until we investigate what happened ourselves, but we’ll see if Victor gives into his impulses first. 
 
 Captain also joyously informed us that he was able to sit in a mech without needing to de-associate, and has declared Mercury dead. I think the suddenness of the loss of Mercury has put me into a shock so badly that I’m unable to properly mourn them right now. I suppose it means I didn’t hear Mercury in the swamp after all. That I couldn’t show them a world outside of being a weapon will haunt me more than any paracausal entity we could ever meet. 
 
