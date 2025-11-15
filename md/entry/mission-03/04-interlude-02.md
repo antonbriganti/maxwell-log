@@ -3,6 +3,8 @@ layout: entry
 title: Interlude 2 - Post Mission Downtime, Pt. 2
 ---
 
+<hr>
+
 <div class="header-row">
     <h3></h3>
     <h4>3.1.8.12 <span class="small-text">R.D.</span></h4>
@@ -18,6 +20,8 @@ When I got back to base, the engineering crew pulled me aside and asked me what 
 
 To my embarrassment, the engineers informed me that’s how this kind of thing always goes, and my hands-off approach thus far has been the outlier. On the bright side, they at least seemed glad that I’d be more active for this development cycle. I can’t let them down. 
 
+<hr>
+
 <div class="header-row">
     <h3></h3>
     <h4>5.1.8.12 <span class="small-text">R.D.</span></h4>
@@ -28,6 +32,8 @@ Designing a mech is incredibly hard, even with a pre-existing base. How do other
 I am trying to approach this with the mindset of the mech being a form of self-expression. As such, I want even the weapons to “feel” like me, in the hopes that I can foster a greater human to mechanics connection in combat. But that asks a question I don’t know the answer to anymore - who am I? I used to know, but since joining Unit 02, my self-identity has become as shrouded as the truths we’ve been seeking. I am something more than an academic but less than a soldier. How can I make Ithiki more like me when I’m lost?
 
 Maybe I should seek inspiration from elsewhere instead of trying to find the answer in these damned indecipherable manuals. 
+
+<hr>
 
 <div class="header-row">
     <h3></h3>
@@ -41,6 +47,8 @@ And then it came to me! What is a greater expression of self than emotion? I had
 Furthermore, one could argue that emotions are a level above raw instinct, which is what I’ve been leveraging so far whenever I’m in a mech. Maybe by trying to tap into them, I can perform more consistently without needing to rely on my instinctual “flow state”. 
 
 This all means that whatever weapon I pick should somehow pull from inspiration from emotion. I’ll chat to the engineers and see if anything comes to mind for them. How thrilling to finally crack this! 
+
+<hr>
 
 <div class="header-row">
     <h3></h3>
@@ -62,6 +70,8 @@ He got called into an emergency Union meeting, which I’m not allowed into due 
 <div class="break">...</div>
 
 The Union meeting was attacked by some paramilitary force that belongs to the new government. We survived, thanks to Victor’s quick thinking and ability to scare well armed wannabe secret police. The entire time I was focused on keeping Vuelo alive. Couldn’t stop thinking about Ryker telling me I couldn’t save everyone. I had to save Vuelo at all costs. How close to death did I come tonight? 
+
+<hr>
 
 <div class="header-row">
     <h3></h3>
