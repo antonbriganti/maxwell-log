@@ -22,4 +22,5 @@ title: Table of Contents
 0. [Sessions 1 & 2 - Flight and Fight](entry/mission-03/session-01-02)
 0. [Session 3 - A Confrontation 4 Years In The Making](entry/mission-03/session-03)
 0. [Post Mission Report](entry/mission-03/post-mission-report)
-0. [Interlude 1 - Post Mission Downtime, Pt. 1](entry/mission-03/interlude-1)
+0. [Interlude 1 - Post Mission Downtime, Pt. 1](entry/mission-03/interlude-01)
+0. [Interlude 2 - Post Mission Downtime, Pt. 2](entry/mission-03/interlude-02)
