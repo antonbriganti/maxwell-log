@@ -3,8 +3,6 @@ layout: entry
 title: Interlude 2 - Post Mission Downtime, Pt. 2
 ---
 
-<hr>
-
 <div class="header-row">
     <h3></h3>
     <h4>3.1.8.12 <span class="small-text">R.D.</span></h4>
