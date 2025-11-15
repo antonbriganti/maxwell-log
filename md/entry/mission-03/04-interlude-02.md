@@ -63,7 +63,6 @@ He got called into an emergency Union meeting, which I’m not allowed into due 
 
 The Union meeting was attacked by some paramilitary force that belongs to the new government. We survived, thanks to Victor’s quick thinking and ability to scare well armed wannabe secret police. The entire time I was focused on keeping Vuelo alive. Couldn’t stop thinking about Ryker telling me I couldn’t save everyone. I had to save Vuelo at all costs. How close to death did I come tonight? 
 
-
 <div class="header-row">
     <h3></h3>
     <h4>8.1.8.12 <span class="small-text">R.D.</span></h4>
