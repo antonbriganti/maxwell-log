@@ -9,3 +9,4 @@ Slices of life on Telgeta IV and maybe even beyond.
 - [A Nostalgic Storytime](/episodes/a-nostalgic-storytime) - Maxwell remembers an old lesson he learned as a kid.
 - [The First Time](/episodes/the-first-time) - Pirates, explosions and other hijinxs lead to Maxwell getting into the mech for the first time. 
 - [Trauma Response](/episodes/trauma-response) - Maxwell's nightmare the night after the Union Building raid. 
+- [συγκίνηση / sinyinisi Design Document](/episodes/sinyinisi-design-document) - Unit 02 Engineering document Maxwell's new weapon. 
