@@ -24,3 +24,8 @@ title: Table of Contents
 0. [Post Mission Report](entry/mission-03/post-mission-report)
 0. [Interlude 1 - Post Mission Downtime, Pt. 1](entry/mission-03/interlude-01)
 0. [Interlude 2 - Post Mission Downtime, Pt. 2](entry/mission-03/interlude-02)
+
+#### Mission 4 - Phalanx Reconnaissance
+0. [Session 1 - Highlands Defense](entry/mission-04/session-01)
+0. [Session 2 & 3 - Revenge's Folly](entry/mission-04/session-02-03)
+0. [Post Mission Report](entry/mission-04/post-mission-report)

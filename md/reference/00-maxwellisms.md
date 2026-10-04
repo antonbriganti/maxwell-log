@@ -25,5 +25,9 @@ _In order to aid my responsibilities with summarising Lt. Maxwell's reports, I h
 - **Other One** - Captain Amalia Beauchot
 - **Soldier** - Any non specific military personnel 
 
+#### Phalanx 
+- **Noble/Hypocritical Noble** - Loria "Morningstar" Casella
+- **Phalanx General** - General Anabet Hedlund 
+
 #### General 
 - **Politician** - Used to refer to Minister Delfin Argoni and Governor Conta Reyes interchangably, assume it will be the case for any government figure
