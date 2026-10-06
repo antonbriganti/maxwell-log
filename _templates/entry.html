@@ -13,6 +13,60 @@
         </section>
     </main>
 
+    <script>
+    (function() {
+        'use strict';
+        /* Rela-Date ↔ Castirian Date converter — hover over a date to see the equivalent */
+        var DPM = 30, MPY = 12, DPY = DPM * MPY;
+        var BI = 4980 * DPY + 10 * DPM + 10;  /* birth index for 4980-11-11 = 0.0.0.0 R.D. */
+
+        function rdToCastirian(rd) {
+            var p = rd.split('.');
+            if (p.length !== 4) return null;
+            var tot = (+p[3]) * 1000 + (+p[2]) * 100 + (+p[1]) * 10 + (+p[0]);
+            var idx = BI + tot;
+            var y = Math.floor(idx / DPY);
+            var r = idx % DPY;
+            var m = Math.floor(r / DPM) + 1;
+            var d = (r % DPM) + 1;
+            return y + 'u-' + (m < 10 ? '0' : '') + m + '-' + (d < 10 ? '0' : '') + d;
+        }
+
+        function ciToRd(ci) {
+            var m = ci.match(/^(\d+)u?-(\d{1,2})-(\d{1,2})$/);
+            if (!m) return null;
+            var idx = (+m[1]) * DPY + ((+m[2]) - 1) * DPM + (+m[3]) - 1 - BI;
+            if (idx < 0) return null;
+            var days = idx % 10; idx = Math.floor(idx / 10);
+            var w = idx % 10; idx = Math.floor(idx / 10);
+            var mo = idx % 10; idx = Math.floor(idx / 10);
+            var y = idx;
+            return days + '.' + w + '.' + mo + '.' + y + ' R.D.';
+        }
+
+        /* 1. Reladates in h4 — e.g. 8.4.7.12 R.D. */
+        document.querySelectorAll('h4').forEach(function(el) {
+            var m = el.textContent.match(/(\d+\.\d+\.\d+\.\d+)\s*R\.D\.?/i);
+            if (m) {
+                var ci = rdToCastirian(m[1]);
+                if (ci) { el.title = ci; el.classList.add('rd-date'); }
+            }
+        });
+
+        /* 2. Castirian dates — e.g. 5016u-05-06 in any likely element */
+        /*    Skip elements already tagged above. */
+        document.querySelectorAll('h4, h5, p, li, td').forEach(function(el) {
+            if (el.title) return;
+            var m = el.textContent.match(/(\d+)u-(\d{2})-(\d{2})/);
+            if (m) {
+                var full = m[1] + 'u-' + m[2] + '-' + m[3];
+                var rd = ciToRd(full);
+                if (rd) { el.title = rd; el.classList.add('ci-date'); }
+            }
+        });
+    })();
+    </script>
+
 </body>
 
 </html>
