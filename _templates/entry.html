@@ -16,11 +16,10 @@
     <script>
     (function() {
         'use strict';
-        /* Rela-Date ↔ Castirian Date converter — hover over a date to see the equivalent */
         var DPM = 30, MPY = 12, DPY = DPM * MPY;
-        var BI = 4980 * DPY + 10 * DPM + 10;  /* birth index for 4980-11-11 = 0.0.0.0 R.D. */
+        var BI = 4980 * DPY + 10 * DPM + 10;
 
-        function rdToCastirian(rd) {
+        function rdToCi(rd) {
             var p = rd.split('.');
             if (p.length !== 4) return null;
             var tot = (+p[3]) * 1000 + (+p[2]) * 100 + (+p[1]) * 10 + (+p[0]);
@@ -41,28 +40,47 @@
             var w = idx % 10; idx = Math.floor(idx / 10);
             var mo = idx % 10; idx = Math.floor(idx / 10);
             var y = idx;
-            return days + '.' + w + '.' + mo + '.' + y + ' R.D.';
+            return days + '.' + w + '.' + mo + '.' + y;
         }
 
-        /* 1. Reladates in h4 — e.g. 8.4.7.12 R.D. */
-        document.querySelectorAll('h4').forEach(function(el) {
+        /* Attach click toggle to a date element */
+        function makeToggle(el, rdHtml, ciText) {
+            el.dataset.rd = rdHtml;
+            el.dataset.ci = ciText;
+            el.dataset.state = 'rd';
+            el.title = ciText;
+            el.addEventListener('click', function () {
+                if (el.dataset.state === 'rd') {
+                    el.innerHTML = el.dataset.ci;
+                    el.title = el.dataset.rd.replace(/<[^>]+>/g, '');
+                    el.dataset.state = 'ci';
+                } else {
+                    el.innerHTML = el.dataset.rd;
+                    el.title = el.dataset.ci;
+                    el.dataset.state = 'rd';
+                }
+            });
+        }
+
+        /* 1. Reladates in h4 — "8.4.7.12 R.D." */
+        document.querySelectorAll('h4').forEach(function (el) {
             var m = el.textContent.match(/(\d+\.\d+\.\d+\.\d+)\s*R\.D\.?/i);
             if (m) {
-                var ci = rdToCastirian(m[1]);
-                if (ci) { el.title = ci; el.classList.add('rd-date'); }
+                var ci = rdToCi(m[1]);
+                if (ci) makeToggle(el, el.innerHTML, ci);
             }
         });
 
-        /* 2. Castirian dates — e.g. 5016u-05-06 in any likely element */
-        /*    Skip elements already tagged above. */
-        document.querySelectorAll('h4, h5, p, li, td').forEach(function(el) {
-            if (el.title) return;
+        /* 2. Castirian dates in content — "5016u-05-06" */
+        document.querySelectorAll('h4, h5, p, li, td, div').forEach(function (el) {
+            if (el.dataset.state) return;  /* already handled above */
             var m = el.textContent.match(/(\d+)u-(\d{2})-(\d{2})/);
-            if (m) {
-                var full = m[1] + 'u-' + m[2] + '-' + m[3];
-                var rd = ciToRd(full);
-                if (rd) { el.title = rd; el.classList.add('ci-date'); }
-            }
+            if (!m) return;
+            var full = m[1] + 'u-' + m[2] + '-' + m[3];
+            if (el.textContent.trim() !== full) return;  /* extra text, skip */
+            var rd = ciToRd(full);
+            if (!rd) return;
+            makeToggle(el, rd + ' <span class="small-text">R.D.</span>', el.innerHTML);
         });
     })();
     </script>
