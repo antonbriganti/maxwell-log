@@ -5,7 +5,7 @@ title: Session 2 & 3 - Revenge's Folly
 
 <div class="header-row">
     <h3></h3>
-    <h4>9.1.8.12 <span class="small-text">R.D.</span></h4>
+    <h4>1.2.8.12 <span class="small-text">R.D.</span></h4>
 </div>
 
 I can feel the fire of revenge guiding my movements and choices. How sanctimonious of me after judging Victor for his hate of the Hordish. I’m aware of the rage, but I can’t hold it back. I see the Phalanx mechs and I just see red, thinking about the raid and the fear of losing Vuelo. I’m ashamed to admit how good it felt taking those ships down. 

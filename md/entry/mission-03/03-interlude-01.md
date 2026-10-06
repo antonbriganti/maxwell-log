@@ -71,7 +71,7 @@ The Professor offered to pay for lunch, but the Victor somehow pulled rank on hi
 
 <div class="header-row">
     <h3></h3>
-    <h4>0.1.8.12 <span class="small-text">R.D.</span></h4>
+    <h4>1.1.8.12<span class="small-text">R.D.</span></h4>
 </div>
 
 The Professor said that the Abujan belief was that demons responded to calls from people, and that’s when they manifested and took action. So who brought Judgement to the battlefield during the 4YAPI? I doubt it was the people of Lang, as the 2P was used against them once the Captain jumped on it. 
