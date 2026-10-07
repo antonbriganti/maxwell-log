@@ -28,7 +28,13 @@
             var r = idx % DPY;
             var m = Math.floor(r / DPM) + 1;
             var d = (r % DPM) + 1;
-            return y + 'u-' + (m < 10 ? '0' : '') + m + '-' + (d < 10 ? '0' : '') + d;
+            var mm = (m < 10 ? '0' : '') + m;
+            var dd = (d < 10 ? '0' : '') + d;
+            /* Castirian display: year + span-wrapped 'u' + -MM-DD */
+            return {
+                html: y + '<span class="small-text">u</span>-' + mm + '-' + dd,
+                plain: y + 'u-' + mm + '-' + dd
+            };
         }
 
         function ciToRd(ci) {
@@ -40,23 +46,28 @@
             var w = idx % 10; idx = Math.floor(idx / 10);
             var mo = idx % 10; idx = Math.floor(idx / 10);
             var y = idx;
-            return days + '.' + w + '.' + mo + '.' + y;
+            var num = days + '.' + w + '.' + mo + '.' + y;
+            /* Reladate display: number space span-wrapped 'R.D.' */
+            return {
+                html: num + ' <span class="small-text">R.D.</span>',
+                plain: num + ' R.D.'
+            };
         }
 
         /* Attach click toggle to a date element */
-        function makeToggle(el, rdHtml, ciText) {
-            el.dataset.rd = rdHtml;
-            el.dataset.ci = ciText;
-            el.dataset.state = 'rd';
-            el.title = ciText;
+        function makeToggle(el, rdInfo, ciInfo, state) {
+            el.dataset.state = state || 'rd';
+            el.dataset.rdHtml = rdInfo.html;
+            el.dataset.ciHtml = ciInfo.html;
+            el.title = state === 'ci' ? rdInfo.plain : ciInfo.plain;
             el.addEventListener('click', function () {
                 if (el.dataset.state === 'rd') {
-                    el.innerHTML = el.dataset.ci;
-                    el.title = el.dataset.rd.replace(/<[^>]+>/g, '');
+                    el.innerHTML = el.dataset.ciHtml;
+                    el.title = rdInfo.plain;
                     el.dataset.state = 'ci';
                 } else {
-                    el.innerHTML = el.dataset.rd;
-                    el.title = el.dataset.ci;
+                    el.innerHTML = el.dataset.rdHtml;
+                    el.title = ciInfo.plain;
                     el.dataset.state = 'rd';
                 }
             });
@@ -67,20 +78,24 @@
             var m = el.textContent.match(/(\d+\.\d+\.\d+\.\d+)\s*R\.D\.?/i);
             if (m) {
                 var ci = rdToCi(m[1]);
-                if (ci) makeToggle(el, el.innerHTML, ci);
+                if (ci) {
+                    var rdInfo = {html: el.innerHTML, plain: m[0]};
+                    makeToggle(el, rdInfo, ci, 'rd');
+                }
             }
         });
 
-        /* 2. Castirian dates in content — "5016u-05-06" */
-        document.querySelectorAll('h4, h5, p, li, td, div').forEach(function (el) {
+        /* 2. Castirian dates in h4 — keep the toggle target on the date heading */
+        document.querySelectorAll('h4').forEach(function (el) {
             if (el.dataset.state) return;  /* already handled above */
             var m = el.textContent.match(/(\d+)u-(\d{2})-(\d{2})/);
             if (!m) return;
-            var full = m[1] + 'u-' + m[2] + '-' + m[3];
-            if (el.textContent.trim() !== full) return;  /* extra text, skip */
-            var rd = ciToRd(full);
+            var fullCi = m[1] + 'u-' + m[2] + '-' + m[3];
+            if (el.textContent.trim() !== fullCi) return;  /* extra text, skip */
+            var rd = ciToRd(fullCi);
             if (!rd) return;
-            makeToggle(el, rd + ' <span class="small-text">R.D.</span>', el.innerHTML);
+            var ciInfo = {html: el.innerHTML, plain: fullCi};
+            makeToggle(el, rd, ciInfo, 'ci');
         });
     })();
     </script>
