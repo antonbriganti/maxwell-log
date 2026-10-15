@@ -29,4 +29,4 @@ title: Table of Contents
 0. [Session 1 - Highlands Defense](entry/mission-04/session-01)
 0. [Session 2 & 3 - Revenge's Folly](entry/mission-04/session-02-03)
 0. [Post Mission Report](entry/mission-04/post-mission-report)
-0. [Interlude - Post Mission Downtime](entry/mission-04/04-interlude)
+0. [Interlude - Post Mission Downtime](entry/mission-04/interlude)
